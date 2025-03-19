@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Bwtt02Application" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="MY_DATASOURCE" value="jdbc:mysql://localhost:3306/users_management" />
+      <env name="MY_USERNAME" value=" root" />
+      <env name="MY_PASSWORD" value=" 89Hello$" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.CodeCraft.bwtt02.Bwtt02Application" />
+    <module name="bwtt02" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.CodeCraft.bwtt02.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
